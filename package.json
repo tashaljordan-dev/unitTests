@@ -1,0 +1,23 @@
+{
+  "name": "unittests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tashaljordan-dev/unitTests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tashaljordan-dev/unitTests/issues"
+  },
+  "homepage": "https://github.com/tashaljordan-dev/unitTests#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
